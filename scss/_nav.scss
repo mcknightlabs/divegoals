@@ -43,10 +43,10 @@ header {
 				padding: 0.8em;
 				letter-spacing: 1px;
 				&:hover {
-					background: #FF3300;
+					background: #6C2DC7;
 				}
 				&:active {
-					background: #FF3300;
+					background: #6C2DC7;
 					color: #fff;
 				}
 			}
@@ -135,7 +135,7 @@ header {
 				a {
 					font-size: 1rem;
 					padding: 0;
-					color: #FF3300;
+					color: #6C2DC7;
 					text-decoration: none;
 					text-transform: uppercase;
 					&:hover {
@@ -147,11 +147,11 @@ header {
 	}
 	.site-logo {
 		float: none;
-		color: #FF3300;
-		border: solid 1px #FF3300;
+		color: #6C2DC7;
+		border: solid 1px #6C2DC7;
 		&:hover {
-			background: #FF3300;
-			border-color: #FF3300;
+			background: #6C2DC7;
+			border-color: #6C2DC7;
 			color: #fff;
 		}
 	}
