@@ -564,7 +564,8 @@ blockquote p, blockquote citation, blockquote citation a, blockquote li {
 
 header {
   display: block;
-  margin: 1rem 0 3rem 0; }
+  margin: 0 0 3rem 0;
+  padding: 1rem 0; }
 
 .rtmup-headshot {
   float: right;
@@ -574,7 +575,7 @@ header {
   display: none; }
 
 .top-nav {
-  background: #191b22;
+  background: #6C2DC7;
   position: fixed;
   width: 100%;
   height: 155px;
@@ -609,18 +610,10 @@ header {
 .site-logo {
   display: inline-block;
   text-align: center;
-  font-weight: 400;
-  font-size: .875rem;
+  font-weight: 600;
   font-family: 'Merriweather', Georgia, serif;
-  border: solid 1px #333;
-  border-radius: 50%;
   line-height: 1.5;
-  padding: .5rem;
-  color: #333; }
-.site-logo:hover {
-  background: #333;
-  border: solid 1px #333;
-  color: #fff; }
+  vertical-align: bottom; }
 
 .menu-wrapper {
   background: #F4F5F7;
@@ -634,7 +627,7 @@ header {
   display: block;
   text-align: center;
   background: none;
-  margin: .5rem 0 0 0;
+  margin: .25rem 0 0 0;
   color: #191b22; }
 .main-menu-btn:hover {
   text-decoration: none; }
@@ -680,20 +673,13 @@ header {
   .top-nav-desktop ul li a {
     font-size: 1rem;
     padding: 0;
-    color: #6C2DC7;
     text-decoration: none;
     text-transform: uppercase; }
   .top-nav-desktop ul li a:hover {
     text-decoration: underline; }
 
   .site-logo {
-    float: none;
-    color: #6C2DC7;
-    border: solid 1px #6C2DC7; }
-  .site-logo:hover {
-    background: #6C2DC7;
-    border-color: #6C2DC7;
-    color: #fff; }
+    float: none; }
 
   .site-logo-inside {
     margin-top: 0; }

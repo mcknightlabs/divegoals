@@ -18,9 +18,9 @@ og_type: website
 </div>
 
 
-Diving in the Galápagos quickly became one of my top goals after <a href="{% post_url goal/2018-02-07-scubadiving %}">completing PADI Open Water and Advanced certifications</a> over Labor Day weekend in 2017.
+Diving in the Galápagos quickly became one of my top goals after <a href="{{ site.baseurl }}{% link _posts/2018-02-07-scubadiving.md %}">completing PADI Open Water and Advanced certifications</a> over Labor Day weekend in 2017.
 
-Just before the New Year's holiday, my friend Joe and I headed south to explore the islands and <a href="{% post_url goal/2018-01-30-uwphotography %}">document the marine life</a>.
+Just before the New Year's holiday, my friend Joe and I headed south to explore the islands and <a href="{{ site.baseurl }}{% link _posts/2018-01-30-uwphotography.md %}">document the marine life</a>.
 
 Based on our experiences, I prepared a guide to help make the trip logistics a little less daunting for others. Have questions? Feel free to DM me on [Twitter](https://twitter.com/rtmup) or [Instagram](https://www.instagram.com/rtmup/). Enjoy.
 
