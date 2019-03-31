@@ -1,6 +1,7 @@
 name: Dive Goals
 description: Diving logbook
 markdown: kramdown 
-exclude: ["scss", "Gemfile","Gemfile.lock", "README.md","config.rb"]
+exclude: ["scss", "Gemfile","Gemfile.lock", "README.md"]
 disqus_short_name: "Ryan McKnight"
-url: http://www.divegoals.com
+url: "https://www.divegoals.com"
+baseurl: ""

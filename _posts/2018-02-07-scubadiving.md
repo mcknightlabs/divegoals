@@ -12,7 +12,7 @@ og_type: website
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-02-07-scubadiving/mcknight-diving.jpg">
+		<img src="{{ site.url }}/media/img/2018-02-07-scubadiving/mcknight-diving.jpg">
 		<figcaption>Diving in the Galápagos, January 2018 | Photo credit: Joe Ensley</figcaption>
 	</figure>
 </div>

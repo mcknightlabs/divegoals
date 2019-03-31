@@ -77,7 +77,7 @@ To test the housing, I filled the bath, created a vacuum, and submerged the unit
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/housing.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/housing.jpg">
 	</figure>
 </div>
 
@@ -129,18 +129,18 @@ The video at the top of the post and the photos below are from my first two week
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/green-seaturtle.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/green-seaturtle.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/joe.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/joe.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/black-salema-school.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/black-salema-school.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/black-salemas-2.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/black-salemas-2.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-30-uwphotography/green-seaturtle-2.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-30-uwphotography/green-seaturtle-2.jpg">
 	</figure>
 </div>

@@ -12,7 +12,7 @@ og_type: website
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/freediving-joe.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/freediving-joe.jpg">
 		<figcaption>Freediver in training in the Galápagos, January 2018</figcaption>
 	</figure>
 </div>
@@ -97,7 +97,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2017-12-30.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2017-12-30.jpg">
 		<figcaption>German Beach on Santa Cruz, Galápagos, January 2018</figcaption>
 	</figure>
 </div>
@@ -109,10 +109,10 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2017-12-31-4.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2017-12-31-4.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2017-12-31-3.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2017-12-31-3.jpg">
 	</figure>
 </div>
 
@@ -122,7 +122,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-01.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-01.jpg">
 	</figure>
 </div>
 
@@ -134,7 +134,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-02.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-02.jpg">
 	</figure>
 </div>
 
@@ -156,13 +156,13 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-05.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-05.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-05-2.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-05-2.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-05-3.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-05-3.jpg">
 	</figure>
 </div>
 
@@ -173,7 +173,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-06.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-06.jpg">
 	</figure>
 </div>
 
@@ -185,7 +185,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-07.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-07.jpg">
 	</figure>
 </div>
 
@@ -196,7 +196,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-08.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-08.jpg">
 	</figure>
 </div>
 
@@ -206,13 +206,13 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 <div class="small-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-09.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-09.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/2018-01-09-2.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/2018-01-09-2.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/2018-01-29-galapagos/freediving.jpg">
+		<img src="{{ site.url }}/media/img/2018-01-29-galapagos/freediving.jpg">
 		<figcaption>Freediving in the Galápagos, January 2018 | Photo credit: Joe Ensley</figcaption>
 	</figure>
 </div>
